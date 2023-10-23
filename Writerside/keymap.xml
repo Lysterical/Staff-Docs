@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Keymap id="instance_id">
+    <Action id="$Uncomment">
+        <Description>Uncomment or remove column mapping</Description>
+        <Shortcut layout="primary_Win/Linux">Ctrl+B</Shortcut>
+        <Shortcut layout="primary_macOS">⌘+B</Shortcut>
+    </Action>
+    <Action id="$Generate">
+        <Description>Generate Menu</Description>
+        <Shortcut layout="primary_Win/Linux">Alt+Insert</Shortcut>
+        <Shortcut layout="primary_macOS">⌘+N</Shortcut>
+    </Action>
+    <Action id="$Configure">
+        <Description>Configure classes</Description>
+        <Shortcut layout="primary_Win/Linux">Alt+Enter</Shortcut>
+        <Shortcut layout="primary_macOS">⌥+⏎</Shortcut>
+    </Action>
+</Keymap>

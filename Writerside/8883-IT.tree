@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="8883-IT"
+                 name="Yarrawonga College P-12 - Internal IT Reference Documentation"
+                 start-page="yarrawonga-college-p-12-internal-it-reference-documentation.md">
+
+    <toc-element topic="yarrawonga-college-p-12-internal-it-reference-documentation.md"/>
+</instance-profile>

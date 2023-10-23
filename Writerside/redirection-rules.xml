@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="43d23d20">
+        <description>Created after removal of "Classwize Classroom Setup" from Help Instance</description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
+    <rule id="41576477">
+        <description>Created after removal of "Welcome" from Yarrawonga College P-12 - Staff Documentation Page
+        </description>
+        <accepts>Staff-Welcome.html</accepts>
+    </rule>
+</rules>

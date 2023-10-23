@@ -1,0 +1,28 @@
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <variables>
+    <header-logo>YC-logo18.png</header-logo>
+    <color-preset>Vivid</color-preset>
+    <primary-color>deep-ocean</primary-color>
+    </variables>
+    <build-profile instance="instance_id"/>
+    <footer>
+    <copyright>Yarrawonga College P-12 2023</copyright>
+    <social type="twitter" href="https://twitter.com/YarraCollegeP12"/>
+    <social type="instagram" href="https://www.instagram.com/yarracollegep12/"/>
+    <social type="facebook" href="https://www.facebook.com/ycp12/"/>
+    <social type="youtube" href="https://www.youtube.com/channel/UCr84rrOIXcJ3qECQnaWseFw/videos%20%20%20"/>
+    <social type="email" href="yarrawonga.p12@education.vic.gov.au"/>
+    <link href="https://yarrawonga.vic.edu.au/">Website</link>
+    </footer>
+    <build-profile instance="hi">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
+    <build-profile instance="8883-IT">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
+</buildprofiles>

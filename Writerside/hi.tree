@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Yarrawonga College P-12 - Staff Documentation Page"
+                 start-page="Classwize.topic">
+
+    <toc-element topic="Classwize.topic"/>
+    <toc-element topic="Classwize-Classroom-Setup.md"/>
+    <toc-element topic="Creating-Bypass-Codes-and-Rules.md"/>
+    <toc-element topic="Contact.md"/>
+</instance-profile>
